@@ -1,0 +1,24 @@
+[{
+  "model": "employees.employer",
+  "fields": {
+    "name": "Google",
+    "created_at": "2020-12-22 11:00:00",
+    "updated_at": "2020-12-22 11:00:00"
+  }
+}, {
+  "model": "employees.employer",
+  "fields": {
+    "name": "IBM",
+    "created_at": "2020-12-22 11:00:00",
+    "updated_at": "2020-12-22 11:00:00"
+  }
+}, {
+  "model": "employees.employer",
+  "fields": {
+    "name": "Facebook",
+    "created_at": "2020-12-22 11:00:00",
+    "updated_at": "2020-12-22 11:00:00"
+  }
+}]
+
+

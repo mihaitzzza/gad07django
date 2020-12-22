@@ -1,0 +1,6 @@
+<h2>Add template</h2>
+<a href="{% url 'employees:homeview' %}">Back to home view</a>
+<form action="{% url 'employees:add' %}" method="post">
+    {{ form.as_p }}
+    <input type="submit" value="Hire" />
+</form>
