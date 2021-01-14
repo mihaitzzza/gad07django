@@ -1,0 +1,101 @@
+[{
+  "model": "employees.employee",
+  "pk": 1,
+  "fields": {
+    "user": 4,
+    "employer": 1,
+    "wage": 200.00,
+    "created_at": "2020-12-22 11:00:00",
+    "updated_at": "2020-12-22 11:00:00"
+  }
+}, {
+  "model": "employees.employee",
+  "pk": 2,
+  "fields": {
+    "user": 4,
+    "employer": 3,
+    "wage": 125.00,
+    "created_at": "2020-12-22 11:00:00",
+    "updated_at": "2020-12-22 11:00:00"
+  }
+}, {
+  "model": "employees.employee",
+  "pk": 3,
+  "fields": {
+    "user": 5,
+    "employer": 2,
+    "wage": 200.00,
+    "created_at": "2020-12-22 11:00:00",
+    "updated_at": "2020-12-22 11:00:00"
+  }
+}, {
+  "model": "employees.employee",
+  "pk": 4,
+  "fields": {
+    "user": 6,
+    "employer": 2,
+    "wage": 250.50,
+    "created_at": "2020-12-22 11:00:00",
+    "updated_at": "2020-12-22 11:00:00"
+  }
+}, {
+  "model": "employees.employee",
+  "pk": 5,
+  "fields": {
+    "user": 7,
+    "employer": 1,
+    "wage": 325.00,
+    "created_at": "2020-12-22 11:00:00",
+    "updated_at": "2020-12-22 11:00:00"
+  }
+}, {
+  "model": "employees.employee",
+  "pk": 6,
+  "fields": {
+    "user": 7,
+    "employer": 2,
+    "wage": 200.00,
+    "created_at": "2020-12-22 11:00:00",
+    "updated_at": "2020-12-22 11:00:00"
+  }
+}, {
+  "model": "employees.employee",
+  "pk": 7,
+  "fields": {
+    "user": 8,
+    "employer": 3,
+    "wage": 450.99,
+    "created_at": "2020-12-22 11:00:00",
+    "updated_at": "2020-12-22 11:00:00"
+  }
+}, {
+  "model": "employees.employee",
+  "pk": 8,
+  "fields": {
+    "user": 11,
+    "employer": 1,
+    "wage": 750.00,
+    "created_at": "2020-12-22 11:00:00",
+    "updated_at": "2020-12-22 11:00:00"
+  }
+}, {
+  "model": "employees.employee",
+  "pk": 9,
+  "fields": {
+    "user": 11,
+    "employer": 2,
+    "wage": 825.99,
+    "created_at": "2020-12-22 11:00:00",
+    "updated_at": "2020-12-22 11:00:00"
+  }
+}, {
+  "model": "employees.employee",
+  "pk": 10,
+  "fields": {
+    "user": 11,
+    "employer": 3,
+    "wage": 999.99,
+    "created_at": "2020-12-22 11:00:00",
+    "updated_at": "2020-12-22 11:00:00"
+  }
+}]

@@ -1,5 +1,42 @@
 [{
   "model": "auth.user",
+  "pk": 1,
+  "fields": {
+    "first_name": "Mihai",
+    "last_name": "Vladu",
+    "email": "mihai.vladu@scoalainformala.ro",
+    "username": "mihai.vladu@scoalainformala.ro",
+    "is_superuser": 1,
+    "is_staff": 1,
+    "password": "pbkdf2_sha256$216000$n4a8TBs0YbbN$b0BjstEtqDVnzkhVVZfW0WyLb6T9ePCEeQtyv7O1sBY="
+  }
+}, {
+  "model": "auth.user",
+  "pk": 2,
+  "fields": {
+    "first_name": "Bill",
+    "last_name": "Gates",
+    "email": "bill.gates@test.com",
+    "username": "bill.gates@test.com",
+    "is_superuser": 0,
+    "is_staff": 1,
+    "password": "pbkdf2_sha256$216000$n4a8TBs0YbbN$b0BjstEtqDVnzkhVVZfW0WyLb6T9ePCEeQtyv7O1sBY="
+  }
+}, {
+  "model": "auth.user",
+  "pk": 3,
+  "fields": {
+    "first_name": "Mark",
+    "last_name": "Zuckerberg",
+    "email": "mark.zuckerberg@test.com",
+    "username": "mark.zuckerberg@test.com",
+    "is_superuser": 0,
+    "is_staff": 1,
+    "password": "pbkdf2_sha256$216000$n4a8TBs0YbbN$b0BjstEtqDVnzkhVVZfW0WyLb6T9ePCEeQtyv7O1sBY="
+  }
+}, {
+  "model": "auth.user",
+  "pk": 4,
   "fields": {
     "first_name": "Ion",
     "last_name": "Popescu",
@@ -8,6 +45,7 @@
   }
 }, {
   "model": "auth.user",
+  "pk": 5,
   "fields": {
     "first_name": "George",
     "last_name": "Vasile",
@@ -16,6 +54,7 @@
   }
 }, {
   "model": "auth.user",
+  "pk": 6,
   "fields": {
     "first_name": "George",
     "last_name": "Serban",
@@ -24,6 +63,7 @@
   }
 }, {
   "model": "auth.user",
+  "pk": 7,
   "fields": {
     "first_name": "Ion",
     "last_name": "Matei",
@@ -32,6 +72,7 @@
   }
 }, {
   "model": "auth.user",
+  "pk": 8,
   "fields": {
     "first_name": "Ionut",
     "last_name": "Ilie",
@@ -40,6 +81,7 @@
   }
 }, {
   "model": "auth.user",
+  "pk": 9,
   "fields": {
     "first_name": "Claudiu",
     "last_name": "Vasile",
@@ -48,6 +90,7 @@
   }
 }, {
   "model": "auth.user",
+  "pk": 9,
   "fields": {
     "first_name": "Ioan",
     "last_name": "Pricop",
@@ -56,6 +99,7 @@
   }
 }, {
   "model": "auth.user",
+  "pk": 10,
   "fields": {
     "first_name": "Ionut",
     "last_name": "Georgescu",
@@ -64,6 +108,7 @@
   }
 }, {
   "model": "auth.user",
+  "pk": 11,
   "fields": {
     "first_name": "Sebastian",
     "last_name": "Istrate",
@@ -72,6 +117,7 @@
   }
 }, {
   "model": "auth.user",
+  "pk": 12,
   "fields": {
    "first_name": "Viorel",
     "last_name": "Enache",

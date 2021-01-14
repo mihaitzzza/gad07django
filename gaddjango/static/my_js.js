@@ -1,0 +1,1 @@
+window.alert("JS loaded using static template tag!")

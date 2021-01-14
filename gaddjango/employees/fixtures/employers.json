@@ -1,21 +1,27 @@
 [{
   "model": "employees.employer",
+  "pk": 1,
   "fields": {
-    "name": "Google",
+    "owner": 2,
+    "name": "Microsoft",
     "created_at": "2020-12-22 11:00:00",
     "updated_at": "2020-12-22 11:00:00"
   }
 }, {
   "model": "employees.employer",
+  "pk": 2,
   "fields": {
+    "owner": 2,
     "name": "IBM",
     "created_at": "2020-12-22 11:00:00",
     "updated_at": "2020-12-22 11:00:00"
   }
 }, {
   "model": "employees.employer",
+  "pk": 3,
   "fields": {
     "name": "Facebook",
+    "owner": 3,
     "created_at": "2020-12-22 11:00:00",
     "updated_at": "2020-12-22 11:00:00"
   }

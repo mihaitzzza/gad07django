@@ -1,11 +1,8 @@
 {% extends 'base.html' %}
+{% load static %}
 
 {% block style %}
-    <style>
-        h1 {
-            color: red
-        }
-    </style>
+    <link rel="stylesheet" href="{% static 'my_css.css' %}">
 {% endblock %}
 
 {% block title %}
@@ -14,4 +11,9 @@
 
 {% block content %}
     <h1>First {{name}} Project</h1>
+    <img src="{% static 'download.jpeg' %}" />
+{% endblock %}
+
+{% block javascript %}
+    <script src="{% static 'my_js.js' %}"></script>
 {% endblock %}
